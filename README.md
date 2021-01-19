@@ -12,7 +12,7 @@ Githup Page: [https://fsn1995.github.io/](https://fsn1995.github.io/)
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" alt="Matlab" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="R" width="40" height="40"/>
   <img src="https://www.arcgis.com/sharing/rest/content/items/71bec4d35f4743b597634fb379e9b26e/data" alt="ArcGIS" width="40" height="40"/>
   <img src="https://www.harrisgeospatial.com/portals/0/Images/ENVI_Icon_ColorLogo.png" alt="ENVI" width="100" height="30"/>
@@ -20,9 +20,9 @@ Githup Page: [https://fsn1995.github.io/](https://fsn1995.github.io/)
 </p>
 
 <p align="left">
-  <img src="https://medarbejdere.au.dk/fileadmin/_processed_/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70"/>
+  <img src="https://medarbejdere.au.dk/fileadmin/_processed_/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70" style="vertical-align: 80%"/>
   <img src="https://www.uu.se/digitalAssets/242/c_242915-l_3-k_svg-uu-logo.svg" alt ="UU" width="100"/>
-  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEVu2H3ThbZlQ/company-logo_200_200/0?e=1611187200&v=beta&t=okb790hghWzUXQKrFMPyIdvYTFr3EQ_MFrjJySGRiX0" alt ="CCNU" width="70"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEVu2H3ThbZlQ/company-logo_200_200/0?e=1611187200&v=beta&t=okb790hghWzUXQKrFMPyIdvYTFr3EQ_MFrjJySGRiX0" alt ="CCNU" width="70" style="vertical-align: 80%"/>
 </p>
 
 
