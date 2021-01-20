@@ -19,6 +19,12 @@ Githup Page: [https://fsn1995.github.io/](https://fsn1995.github.io/)
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTex" width="80" height="30"/>
 </p>
 
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0002-8534-3066)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/shunan-feng/)
+[![SCOPUS](https://img.shields.io/badge/Scopus-iD-orange)](https://www.scopus.com/authid/detail.uri?authorId=57199645939)
+
+
 <p align="left">
   <img src="https://medarbejdere.au.dk/fileadmin/_processed_/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70" style="vertical-align: 80%"/>
   <img src="https://www.uu.se/digitalAssets/242/c_242915-l_3-k_svg-uu-logo.svg" alt ="UU" width="100"/>
