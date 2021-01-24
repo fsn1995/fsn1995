@@ -29,7 +29,7 @@ Githup Page: [https://fsn1995.github.io/](https://fsn1995.github.io/)
   <img src="https://medarbejdere.au.dk/fileadmin/_processed_/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70" style="vertical-align: 80%"/>
   <!-- <img src="https://www.uu.se/digitalAssets/242/c_242915-l_3-k_svg-uu-logo.svg" alt ="UU" width="100"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Uppsala_University_logo.svg/1200px-Uppsala_University_logo.svg.png" alt ="UU" width="65" style="vertical-align: 90%"/>
-  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEVu2H3ThbZlQ/company-logo_200_200/0?e=1611187200&v=beta&t=okb790hghWzUXQKrFMPyIdvYTFr3EQ_MFrjJySGRiX0" alt ="CCNU" width="70" style="vertical-align: 80%"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQGB1wGC5Pj1mQ/company-logo_200_200/0/1519866978104?e=1619654400&v=beta&t=MmM0ReEDRbUTPMY6ozGjHkbjWAObeLRbHIAU7ChdhNw" alt ="CCNU" width="70" style="vertical-align: 80%"/>
 </p>
 
 
