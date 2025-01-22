@@ -3,7 +3,7 @@
 
 Hello this is Shunan（楠树）. 
 
-I am interested in remote sensing, glaciology and hydrology. PhD student at Aarhus University and part of the [deep purple](https://www.deeppurple-ercsyg.eu/home) project. 
+I am interested in remote sensing, glaciology and hydrology. Postdoc at the University of Copenhagen and part of the [AVOCA - Arctic biogenic Volatile Organic Compounds from Above](https://github.com/KU-AVOCA) project. 
 
 Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/) 
 
@@ -35,7 +35,7 @@ Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/)
 </p>
 
 
-Next goal: receive 100 stars (yes, a long way to go) :mountain_snow:
+Next goal: receive 200 stars (yes, a long way to go) :mountain_snow:
 
 <img src="https://github.com/fsn1995/fsn1995.github.io/raw/master/assets/images/icon/to%20be%20continued.png" alt="JOJO" width="200" align="left"/>
 
